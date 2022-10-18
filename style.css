@@ -52,7 +52,7 @@ button{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 300px;
   }
 .shake{
     animation: shake 0.5s infinite;
