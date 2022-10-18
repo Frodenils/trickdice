@@ -48,6 +48,12 @@ button{
     cursor: pointer;
     flex-direction: row;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
 .shake{
     animation: shake 0.5s infinite;
 }
