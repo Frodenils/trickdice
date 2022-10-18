@@ -12,13 +12,15 @@ let trick2 = ["dice2-01.svg",
 "dice2-05.svg",
 "dice2-06.svg",
 "dice2-07.svg",
-"dice2-08.svg"];
+"dice2-08.svg",
+"dice2-09.svg"];
 
 let trick3 = ["dice3-01.svg",
 "dice3-02.svg",
 "dice3-03.svg",
 "dice3-04.svg",
-"dice3-05.svg"];
+"dice3-05.svg",
+"dice2-06.svg"];
 let dice = document.querySelectorAll("img");
 
 function roll(){
